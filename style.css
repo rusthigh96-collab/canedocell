@@ -52,7 +52,7 @@ body:before{
   backdrop-filter:blur(18px);transition:.35s var(--ease)
 }
 .site-header.scrolled{min-height:66px;background:rgba(6,6,6,.94)}
-.brand{display:flex;align-items:center;gap:11px;font-weight:900;white-space:nowrap}
+.brand{display:flex;align-items:center;gap:4px;font-weight:900;white-space:nowrap}
 .brand-logo{
   width:135px;height:135px;display:block;object-fit:contain;
   filter:drop-shadow(0 8px 22px rgba(255,210,26,.18));
