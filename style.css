@@ -54,7 +54,7 @@ body:before{
 .site-header.scrolled{min-height:66px;background:rgba(6,6,6,.94)}
 .brand{display:flex;align-items:center;gap:11px;font-weight:900;white-space:nowrap}
 .brand-logo{
-  width:80px;height:80px;display:block;object-fit:contain;
+  width:135px;height:135px;display:block;object-fit:contain;
   filter:drop-shadow(0 8px 22px rgba(255,210,26,.18));
   transition:transform .35s var(--ease),filter .35s var(--ease)
 }
